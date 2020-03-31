@@ -1,3 +1,6 @@
-Beer 		zdroj:https://pin.it/4GHowOb
-Evropa 		zdroj:https://memes-coast.com/memes/dont-come-closer-corona-virus/
-Šílenec		zdroj:https://memes-coast.com/memes/coronavirus/coronavirus-everywhere/
+Beer 		zdroj:https://pin.it/4GHowOb		564x561 px
+Evropa 		zdroj:https://memes-coast.com/memes/dont-come-closer-corona-virus/		662x667 px
+Šílenec		zdroj:https://memes-coast.com/memes/coronavirus/coronavirus-everywhere/		662x524 px
+
+oblek		https://pin.it/2veMEDS		563x602 px
+got		https://pin.it/70Bel31		465x591 px
